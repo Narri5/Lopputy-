@@ -1,0 +1,18 @@
+
+body {
+    background-color: aquamarine;
+}
+ul {
+    background-color: black;
+    text-align: center;
+}
+.carousel {
+    margin: 0 auto;
+  }
+  .carousel-item {
+    text-align: center;
+  }
+  .carousel-item img {
+    display: inline-block;
+    width: 100%; /* Ensures images are responsive */
+  }
